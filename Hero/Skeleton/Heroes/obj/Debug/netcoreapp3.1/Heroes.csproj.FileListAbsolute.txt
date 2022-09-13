@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Hero\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
