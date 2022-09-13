@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\Formula1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
