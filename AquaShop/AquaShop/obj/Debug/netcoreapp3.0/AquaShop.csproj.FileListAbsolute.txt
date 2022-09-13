@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\ASUS\Desktop\SoftUni OOP-ExamPreparetion\Structure\AquaShop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
